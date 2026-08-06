@@ -44,6 +44,22 @@ p {
   color: #333;
 }
 
+h2 {
+  font-size: 24px;
+  font-weight: 800;
+  margin: 36px 0 12px;
+}
+
+ul {
+  margin: 0 0 24px;
+  padding-left: 22px;
+  color: #333;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
 a {
   color: #1d4ed8;
   text-decoration: underline;
